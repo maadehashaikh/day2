@@ -1,0 +1,26 @@
+Node.js Basics 
+(Programming language nh h , framework nh h , library bh nh h or koi technology bh nh h )
+it is js runtime environment 
+js say backend nh ban skta h bcz js kay psss aise functionalities he nh hain jo kay backend bna sakain (in older time) so ab kia hua h kay rayan dahl ny yeh idea dia kay mai js say backend kar paon so what he happens google chrome ka v8 engine (chrome jahn p poora js ka code chalata h) ab google chrome ka v8 engine ka code open source h and rayan dahl ab us mai kuch changes karny ki try kar rha h and he think that we have to code in js and chrome ka v8 engine bna h c++ mai he wants kay js ka code kar kay backend ka code kar sakain   
+
+intro to Node.js
+
+HOW NODE WORKS =>
+user ka code => wrapper layer of JS => c++(V8 engine) => whole thing is called NODE.JS
+jab tak node chalay ga tab tak code chalay ga its like a generator actually 
+
+installing node.js =>
+
+hm woh code ab run karain gay jo kay hmy server bna kay dayga 
+Working with modules => npm is like a play store kay hm us mai say jo bh chahy utha lain => logo ka code you can use no need to write by your self => code borrow 
+
+node and NPM => working with it => npm init => node basic usage 
+npm init => will ask many things 
+npm init -y => won't ask any question
+package.json => sab kuch h is mai kay ap kay project mai kia kia majood h 
+(likha jokha of project)
+
+
+working with modules 
+file system operations 
+understanding HTTP modules
